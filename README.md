@@ -95,7 +95,7 @@ npm run dev
 Contract Address:
 
 Add your contract address here
-📸 Screenshots
+<img width="1812" height="906" alt="Image" src="https://github.com/user-attachments/assets/8cca6754-026d-4955-bdcf-1ebb56768187" />
 
 Add project screenshots here.
 
