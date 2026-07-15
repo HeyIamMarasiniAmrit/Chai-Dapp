@@ -95,9 +95,8 @@ npm run dev
 Contract Address:
 
 Add your contract address here
-[Image](https://github.com/user-attachments/assets/8cca6754-026d-4955-bdcf-1ebb56768187)
-
 ![Chai Website](https://github.com)
+
 
 Add project screenshots here.
 
