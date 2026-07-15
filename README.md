@@ -6,7 +6,7 @@ A full-stack decentralized application (DApp) where users can connect their Ethe
 
 Add your Netlify link here:
 
-https://your-dapp-link.netlify.app/
+https://chaiorder.netlify.app/
 
 
 ## 📌 About The Project
